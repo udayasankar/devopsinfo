@@ -4,6 +4,8 @@ Devops Reading List : https://octopus.com/blog/devops-reading-list
 
 𝟵𝟬 𝗗𝗮𝘆𝘀 𝗢𝗳 𝗗𝗲𝘃𝗢𝗽𝘀 : https://github.com/MichaelCade/90DaysOfDevOps
 
+DEVOPS Excercises: https://github.com/ashishpatel26/devops-exercises
+
 YOUTUBE LINKS TO LEARN DEVOPS
 
 1) Linux :
