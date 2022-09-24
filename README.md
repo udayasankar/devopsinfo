@@ -287,6 +287,11 @@ https://lnkd.in/dg8JSet5
 23. DevOps Project | Creating CI CD Pipeline Using Jenkins | Intellipaat
 https://lnkd.in/dFaEagvK
 
+Google Style Sheets
+
+https://google.github.io/styleguide/shellguide.html
+https://tldp.org/LDP/abs/html/
+
 
 
 
