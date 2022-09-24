@@ -292,6 +292,8 @@ Google Style Sheets
 https://google.github.io/styleguide/shellguide.html
 https://tldp.org/LDP/abs/html/
 
+https://github.com/dennyzhang/cheatsheet-kubernetes-A4
+
 
 
 
