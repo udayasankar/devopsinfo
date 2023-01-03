@@ -1,5 +1,43 @@
 # devopsinfo
 
+*********************************************************************************************************************
+
+10 github repos to level up devops
+
+[1] The Book of Secret Knowledge
+https://lnkd.in/gtMVgXSz
+
+[2] Awesome Scalability
+https://lnkd.in/g88mqQex
+
+[3] Awesome Cloud Native Trainings
+https://lnkd.in/gyAsNP_Q
+
+[4] DevOps Exercises
+https://lnkd.in/gYC3XTTK
+
+[5] Fast Kubernetes
+https://lnkd.in/gU7q3b6R
+
+[6] How they SRE
+https://lnkd.in/grb3AqTC
+
+[7] Awesome Site Reliability Engineering
+https://lnkd.in/gXMiPM4a
+
+[8] Test your Sys Admin Skill
+https://lnkd.in/gnDcaVCm
+
+[9] Awesome DevSecOps
+https://lnkd.in/g57rDPnz
+
+[10] DevOps Bash Tools
+https://lnkd.in/guz84vVu
+
+
+**********************************************************************************************************************
+
+
 Moving to Production : https://blog.pragmaticengineer.com/shipping-to-production/
 
 Devops Reading List : https://octopus.com/blog/devops-reading-list
@@ -293,7 +331,3 @@ https://google.github.io/styleguide/shellguide.html
 https://tldp.org/LDP/abs/html/
 
 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
-
-
-
-
