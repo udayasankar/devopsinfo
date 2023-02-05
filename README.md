@@ -2,6 +2,8 @@
 ********************************************************************************************************************
 SRE interview :
 https://github.com/mxssl/sre-interview-prep-guide
+
+https://github.com/techiescamp/kubernetes-learning-path
 ********************************************************************************************************************
 ***********************************************************************************************************************
 2. Contains questions and exercises on various technical topics related to DevOps and SRE
