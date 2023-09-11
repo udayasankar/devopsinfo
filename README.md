@@ -1,4 +1,19 @@
 # devopsinfo
+
+10 ways to learn Kubernetes:
+
+1. The official Kubernetes tutorials: https://lnkd.in/eKQNjFFE
+2. Follow the Kubernetes Fundamentals learning path on kube by example: https://lnkd.in/e745yb3g
+3. Watch the Kubernetes Complete Course from TechWorld by Nana: https://lnkd.in/eU7Pbtfz
+4. Take Microsoft’s Introduction to Kubernetes course: https://lnkd.in/efNzHhwV
+5. Take freeCodeCamp’s Learn Kubernetes in Under 3 Hours course: https://lnkd.in/eKm4BxK7
+6 . Take IBM’s Introduction to Containers w/ Docker, Kubernetes & OpenShift course on Coursera: https://lnkd.in/eN5cTR67
+7. Take the Udemy course Docker & Kubernetes: The Practical Guide: https://lnkd.in/eYqnzkGr
+8. Read the book Kubernetes - Up and Running: Dive into the Future of Infrastructure: https://lnkd.in/eXPRDrBu
+9. Read The Book Of Kubernetes: A Complete Guide to Container Orchestration: https://lnkd.in/eXJVX98v
+10. Read the book Programming Kubernetes: Developing Cloud-Native Applications: https://lnkd.in/eZUPqB8w
+
+
 ********************************************************************************************************************
 SRE interview :
 https://github.com/mxssl/sre-interview-prep-guide
