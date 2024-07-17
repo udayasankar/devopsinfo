@@ -1,5 +1,12 @@
 # devopsinfo
 
+<html>
+  <th>Keywords</th>
+  <th>urls</th>
+  <tr><td>devops tools</td><td>https://github.com/techiescamp/devops-tools</td></tr>
+  <tr><td>how sre</td><td>https://github.com/upgundecha/howtheysre</td></tr>
+  <tr><td>how to test</td><td>https://github.com/abhivaikar/howtheytest</td></tr>
+</html>
 **************************************************************************************
 https://github.com/ann-afame/DEVOPS-WORLD
 ********************************************************************************************
