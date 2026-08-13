@@ -1,392 +1,214 @@
 # devopsinfo
 
-https://github.com/veriqta/PDF
+# DevOps Learning Resources
 
-<html>
-  <table>
-  <th>Keywords</th>
-  <th>urls</th>
-  <tr><td>devops tools</td><td>https://github.com/techiescamp/devops-tools</td></tr>
-  <tr><td>how sre</td><td>https://github.com/upgundecha/howtheysre</td></tr>
-  <tr><td>how to test</td><td>https://github.com/abhivaikar/howtheytest</td></tr>
-  <tr><td>sre checklist</td><td>https://github.com/bregman-arie/sre-checklist</td></tr>  
-  <tr><td>devops exercises</td><td>https://github.com/bregman-arie/devops-exercises</td></tr>  
-</table>
-</html>
-**************************************************************************************
-https://github.com/ann-afame/DEVOPS-WORLD
-********************************************************************************************
+A comprehensive collection of resources, tools, and guides for learning DevOps and Site Reliability Engineering (SRE).
 
-10 ways to learn Kubernetes:
+## Table of Contents
 
-1. The official Kubernetes tutorials: https://lnkd.in/eKQNjFFE
-2. Follow the Kubernetes Fundamentals learning path on kube by example: https://lnkd.in/e745yb3g
-3. Watch the Kubernetes Complete Course from TechWorld by Nana: https://lnkd.in/eU7Pbtfz
-4. Take Microsoft’s Introduction to Kubernetes course: https://lnkd.in/efNzHhwV
-5. Take freeCodeCamp’s Learn Kubernetes in Under 3 Hours course: https://lnkd.in/eKm4BxK7
-6 . Take IBM’s Introduction to Containers w/ Docker, Kubernetes & OpenShift course on Coursera: https://lnkd.in/eN5cTR67
-7. Take the Udemy course Docker & Kubernetes: The Practical Guide: https://lnkd.in/eYqnzkGr
-8. Read the book Kubernetes - Up and Running: Dive into the Future of Infrastructure: https://lnkd.in/eXPRDrBu
-9. Read The Book Of Kubernetes: A Complete Guide to Container Orchestration: https://lnkd.in/eXJVX98v
-10. Read the book Programming Kubernetes: Developing Cloud-Native Applications: https://lnkd.in/eZUPqB8w
+- [Quick Links](#quick-links)
+- [Learning Paths & Guides](#learning-paths--guides)
+- [10 Ways to Learn Kubernetes](#10-ways-to-learn-kubernetes)
+- [YouTube Learning Paths](#youtube-learning-paths)
+- [Top GitHub Repositories](#top-github-repositories)
+- [Popular Learning Websites](#popular-learning-websites)
+- [DevOps Projects](#devops-projects)
+- [Reference & Style Guides](#reference--style-guides)
 
+---
 
-********************************************************************************************************************
-SRE interview :
-https://github.com/mxssl/sre-interview-prep-guide
+## Quick Links
+
+| Resource | URL |
+|----------|-----|
+| DevOps Tools | https://github.com/techiescamp/devops-tools |
+| How They SRE | https://github.com/upgundecha/howtheysre |
+| How They Test | https://github.com/abhivaikar/howtheytest |
+| SRE Checklist | https://github.com/bregman-arie/sre-checklist |
+| DevOps Exercises | https://github.com/bregman-arie/devops-exercises |
+| DevOps World | https://github.com/ann-afame/DEVOPS-WORLD |
+
+---
+
+## Learning Paths & Guides
+
+### Official Guides & Articles
+
+- [Moving to Production](https://blog.pragmaticengineer.com/shipping-to-production/) - Pragmatic Engineer
+- [DevOps Reading List](https://octopus.com/blog/devops-reading-list) - Octopus Deploy
+- [90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Comprehensive DevOps journey
+- [DevOps Exercises](https://github.com/ashishpatel26/devops-exercises) - Hands-on practice exercises
 
-https://github.com/techiescamp/kubernetes-learning-path
-********************************************************************************************************************
-***********************************************************************************************************************
-2. Contains questions and exercises on various technical topics related to DevOps and SRE
+### Interview Preparation
 
-📌  (https://lnkd.in/eqR-Y5Pn)
+- [SRE Interview Prep Guide](https://github.com/mxssl/sre-interview-prep-guide)
+- [Kubernetes Learning Path](https://github.com/techiescamp/kubernetes-learning-path)
+
+---
+
+## 10 Ways to Learn Kubernetes
+
+1. **Official Kubernetes Tutorials** - https://kubernetes.io/docs/
+2. **Kube by Example** - Kubernetes Fundamentals learning path
+3. **TechWorld by Nana** - Kubernetes Complete Course (YouTube)
+4. **Microsoft Learning** - Introduction to Kubernetes Course
+5. **freeCodeCamp** - Learn Kubernetes in Under 3 Hours
+6. **IBM on Coursera** - Introduction to Containers with Docker, Kubernetes & OpenShift
+7. **Udemy** - Docker & Kubernetes: The Practical Guide
+8. **Book: Kubernetes - Up and Running** - Dive into the Future of Infrastructure
+9. **Book: The Book Of Kubernetes** - A Complete Guide to Container Orchestration
+10. **Book: Programming Kubernetes** - Developing Cloud-Native Applications
 
-3. Useful resources for Site Reliability Engineering and DevOps
+---
 
-📌  (https://lnkd.in/eRJkKPmE)
+## YouTube Learning Paths
 
-5. A collections of Linux SysAdmin/DevOps questions to help you getter a better understanding of Linux
+### 1. Linux Fundamentals
+Basic Linux commands are essential before shell scripting:
+- Linux essentials and command line basics
+- Linux file systems and permissions
+- Advanced Linux concepts
 
-📌  (https://lnkd.in/ejnAuQtY)
+### 2. Shell Scripting
+- Shell scripting basics
+- Advanced bash scripting techniques
 
-8. Community driven roadmaps, articles and resources for Devs, Architects, QA and DevOps and more!
+### 3. Python Automation
+- Python fundamentals
+- Python for automation
+- Advanced Python concepts
 
-📌  (https://lnkd.in/ew87589P)
+### 4. Networking
+- Network fundamentals
+- Advanced networking concepts
 
-9. Curated questions and answers to test your knowledge on Linux
+### 5. Git & GitHub
+- Git basics and workflows
+- GitHub collaboration
 
-📌  (https://lnkd.in/eTjMHBHq)
+### 6. YAML
+- YAML syntax and best practices
+- YAML in DevOps contexts
 
-*********************************************************************************************************************
-*********************************************************************************************************************
+### 7. Docker & Containers
+- Docker fundamentals
+- Docker best practices
+- Advanced Docker concepts
 
-10 github repos to level up devops
+### 8. CI/CD Fundamentals
+- CI/CD concepts and workflows
+- Continuous deployment strategies
 
-[1] The Book of Secret Knowledge
-https://lnkd.in/gtMVgXSz
+### 9. Kubernetes & Orchestration
+- Kubernetes basics
+- Kubernetes advanced topics
 
-[2] Awesome Scalability
-https://lnkd.in/g88mqQex
+### 10. Monitoring & Logging
+- Prometheus monitoring
+- Logging and observability
+- Alerting strategies
 
-[3] Awesome Cloud Native Trainings
-https://lnkd.in/gyAsNP_Q
+### 11. Infrastructure as Code (IaC)
+- **Terraform** - Infrastructure provisioning
+- **Ansible** - Configuration management
+- **Pulumi** - Modern IaC
 
-[4] DevOps Exercises
-https://lnkd.in/gYC3XTTK
+### 12. CI/CD Tools
+- Jenkins pipelines
+- GitHub Actions
+- GitLab CI
+- Travis CI
+- AWS CodePipeline & CodeBuild
+- Azure DevOps
 
-[5] Fast Kubernetes
-https://lnkd.in/gU7q3b6R
+### 13. AWS
+- AWS fundamentals
+- AWS services for DevOps
+- AWS best practices
 
-[6] How they SRE
-https://lnkd.in/grb3AqTC
+### 14. SSH Access
+- SSH using MobaXterm
+- SSH using PuTTY
 
-[7] Awesome Site Reliability Engineering
-https://lnkd.in/gXMiPM4a
+---
 
-[8] Test your Sys Admin Skill
-https://lnkd.in/gnDcaVCm
+## Top GitHub Repositories
 
-[9] Awesome DevSecOps
-https://lnkd.in/g57rDPnz
+### Top 10 Repos to Level Up DevOps
 
-[10] DevOps Bash Tools
-https://lnkd.in/guz84vVu
+1. **[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)** - Inspiring lists and resources
+2. **[Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)** - Scalable systems design
+3. **[Awesome Cloud Native Trainings](https://github.com/cloudyuga/awesome-cloud-native)** - Cloud native learning
+4. **[DevOps Exercises](https://github.com/bregman-arie/devops-exercises)** - Practical exercises
+5. **[Fast Kubernetes](https://github.com/poseidon/typhoon)** - Kubernetes deployment
+6. **[How They SRE](https://github.com/upgundecha/howtheysre)** - SRE practices from companies
+7. **[Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre)** - SRE resources
+8. **[Test Your SysAdmin Skills](https://github.com/trimstray/test-your-sysadmin-skills)** - Assessment tool
+9. **[Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops)** - Security in DevOps
+10. **[DevOps Bash Tools](https://github.com/Flugel-Corp/bash-devops-tools)** - Useful bash utilities
 
+---
 
-**********************************************************************************************************************
+## Popular Learning Websites
 
+- **[KodeKloud](https://kodekloud.com)** - Interactive DevOps courses
+- **[A Cloud Guru](https://acloudguru.com)** - Cloud and DevOps training
+- **[Katacoda](https://www.katacoda.com)** - Interactive learning environments
 
-Moving to Production : https://blog.pragmaticengineer.com/shipping-to-production/
+---
 
-Devops Reading List : https://octopus.com/blog/devops-reading-list
+## DevOps Projects
 
-𝟵𝟬 𝗗𝗮𝘆𝘀 𝗢𝗳 𝗗𝗲𝘃𝗢𝗽𝘀 : https://github.com/MichaelCade/90DaysOfDevOps
+### Beginner Projects
 
-DEVOPS Excercises: https://github.com/ashishpatel26/devops-exercises
+1. Simple DevOps Project 1 - CI/CD through Jenkins
+2. Simple DevOps Projects - Part 1 (Edureka)
+3. Simple DevOps Project from Scratch (Intellipaat)
+4. Simple DevOps Project 3 - Git, Jenkins, Docker on AWS
 
-YOUTUBE LINKS TO LEARN DEVOPS
+### Intermediate Projects
 
-1) Linux :
-Basic Linux commands are necessary before jumping into shell scripting.
+5. DevOps Project with Git, Jenkins, and Ansible
+6. Simple DevOps Projects - Part 2 (Edureka)
+7. Docker Image Creation Using Jenkins and Ansible
+8. Complete DevOps Project - Github, Docker, Jenkins, Ansible
 
-* https://lnkd.in/dBTsJbhz
-* https://lnkd.in/dHQTiHBB
-* https://lnkd.in/dA9pAmHa
+### Advanced Projects
 
-2. Shell Scripting:
+9. DevOps Project 2021 - Practical Project Learning
+10. Complete END to END Azure DevOps Series
+11. DevOps Setup for Test, Build and Deploy a Java Project
+12. DevOps Project Part-2 - E-Commerce App CI/CD Pipeline
+13. AWS CodePipeline CI/CD Pipeline on AWS
+14. AWS Projects for Beginners - End to End Website Deployment
 
-* https://lnkd.in/da_wHgQH
-* https://lnkd.in/d5CFPgga
+---
 
-3. Python: This will help you in automation
+## Reference & Style Guides
 
-* https://lnkd.in/dFtNz_9D
-* https://lnkd.in/d6cRpFrY
-* https://lnkd.in/d-EhshQz
+- **[Google Shell Script Style Guide](https://google.github.io/styleguide/shellguide.html)** - Best practices for shell scripting
+- **[Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)** - Comprehensive bash reference
+- **[Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)** - Quick reference for Kubernetes
 
-4. Networking
+---
 
-* https://lnkd.in/dqTx6jmN
-* https://lnkd.in/dRqCzbkn
+## Getting Started
 
-5. Git & Github
+1. Start with **Linux fundamentals** and **shell scripting**
+2. Learn **Git/GitHub** for version control
+3. Move to **Docker** for containerization
+4. Progress to **Kubernetes** for orchestration
+5. Pick up **Infrastructure as Code** (Terraform/Ansible)
+6. Set up **CI/CD pipelines** (Jenkins/GitHub Actions)
+7. Explore **monitoring** (Prometheus/Grafana)
+8. Practice with **DevOps projects**
 
-* https://lnkd.in/d9gw-9Ds
-* https://lnkd.in/dEp3KrTJ
+---
 
-6. YAML
-https://lnkd.in/duvmhd5X
-https://lnkd.in/dNqrXjmV
+## Contributing
 
-7. Containers — Docker:
+Feel free to add more resources, correct links, or improve the organization of this guide!
 
-* https://lnkd.in/dY2ZswMZ
-* https://lnkd.in/d_EySpbh
-* https://lnkd.in/dPddbJTf
+---
 
-8. Continuous Integration & Continuous Deployment (CI/CD):
-
-* https://lnkd.in/dMHv9T8U
-
-9. Container Orchestration — Kubernetes:
-* https://lnkd.in/duGZwHYX
-
-10. Monitoring:
-
-* https://lnkd.in/dpXhmVqs
-* https://lnkd.in/dStQbpRX
-* https://lnkd.in/de4H5QVz
-* https://lnkd.in/dEtTSsbB
-
-11. Infrastructure Provisioning & Configuration Management (IaC): Terraform, Ansible, Pulumi
-
-* https://lnkd.in/dvpzNT5M
-* https://lnkd.in/dNugwtVW
-* https://lnkd.in/dn5m2NKQ
-* https://lnkd.in/dhknHJXp
-* https://lnkd.in/ddNxd8vU
-
-12. CI/CD Tools: Jenkins, GitHub Actions, GitLab CI, Travis CI, AWS CodePipeline + AWS CodeBuild, Azure DevOps, etc
-
-* https://lnkd.in/dTmSXNzv
-* https://lnkd.in/dAnxpVTe
-* https://lnkd.in/daMFG3Hq
-* https://lnkd.in/dqf-zzrx
-* https://lnkd.in/diWP7Tm7
-* https://lnkd.in/dYDCSiiC
-
-13. AWS:
-
-* https://lnkd.in/dmi-TMv9
-* https://lnkd.in/de3-dAB6
-* https://lnkd.in/dh2zXZAB
-* https://lnkd.in/dQMyCBWy
-
-
-14. Learn how to SSH
-SSH using mobaxterm:
-
-* https://lnkd.in/gx-T_FU8
-
-15. SSH using Putty :
-
-* https://lnkd.in/gGgW7Ns9
-
-
-Best Websites to learn Devops:
-https://kodekloud.com
-https://acloudguru.com
-https://www.katacoda.com
-
-
-YOUTUBE CHANNEL TO LEARN DEVOPS
-
-
-COMPLETE DEVOPS TUTORIAL:
-
-1. DevOps Pre-requisite
-
-https://lnkd.in/dmrAsZ9t
-
-https://lnkd.in/dD9Z_5qA
-
-2. Networking
-
-https://lnkd.in/dwfmwmA9
-
-3. Linux
-
-https://lnkd.in/d7gzxH5z
-
-https://lnkd.in/dr4pjCV3
-
-https://lnkd.in/dzTQE4b7
-
-4. Shell scripting
-
-https://lnkd.in/dKrD_up7
-
-https://lnkd.in/dJVqMt3Y
-
-https://lnkd.in/d7VVbbNJ
-
-5. Git & GitHub
-
-https://lnkd.in/dEp3KrTJ
-
-https://lnkd.in/d6aM7Ek7
-
-https://lnkd.in/duksFRgG
-
-https://lnkd.in/ddpKXxqt
-
-6. Databases
-
-https://lnkd.in/duMVr4bn
-
-https://lnkd.in/dnUQ_uGe
-
-7. Artifact Repository Manager
-
-https://lnkd.in/dgNHs7WD
-
-8. Docker
-
-https://lnkd.in/dPddbJTf
-
-https://lnkd.in/dnjHdxPR
-
-9. Jenkins
-
-https://lnkd.in/dMHv9T8U
-
-https://lnkd.in/dcynPYYH
-
-10. AWS
-
-https://lnkd.in/dz7d5qEc
-
-https://lnkd.in/dmi-TMv9
-
-https://lnkd.in/dx-iqVNe
-
-11. SSH
-
-Mobaxterm :
-
-https://lnkd.in/ds7nUhbx
-
-
-Putty :
-
-https://lnkd.in/gGgW7Ns9
-
-
-12. Yaml
-
-https://lnkd.in/dNqrXjmV
-
-https://lnkd.in/dNqrXjmV
-
-13. Kubernetes
-
-https://lnkd.in/duGZwHYX
-
-https://lnkd.in/de84ESNv
-
-14. Helm
-
-https://lnkd.in/ds_8WB7G
-
-15. Terraform
-
-https://lnkd.in/dvpzNT5M
-
-https://lnkd.in/dRs3YFu3
-
-https://lnkd.in/d8nkTj3n
-
-16. Python
-
-https://lnkd.in/d-EhshQz
-
-https://lnkd.in/dYjay9ia
-
-https://lnkd.in/dFtNz_9D
-
-https://lnkd.in/dcYq8nE2
-
-17. Ansible
-
-https://lnkd.in/dGKkrXrA
-
-https://lnkd.in/dNugwtVW
-
-https://lnkd.in/dhknHJXp
-
-18. Prometheus
-
-https://lnkd.in/dpXhmVqs
-
-https://lnkd.in/dStQbpRX
-
-19. Grafana
-
-https://lnkd.in/ddAV7_-p
-
-https://lnkd.in/dRwfE7A4
-
-1. Simple DevOps Project-1 | Simple DevOps project for CI/CD | CI/CD through Jenkins
-https://lnkd.in/dXsSW99a
-2. Simple DevOps Projects - Part 1 | DevOps Projects for Beginners | DevOps Training | Edureka
-https://lnkd.in/d3FDFZS5
-3. Simple DevOps Project | DevOps Projects for Beginners | DevOps Project from Scratch | Intellipaat
-https://lnkd.in/drRGSFdD
-4. DevOps-Projects
-https://lnkd.in/dHjRri48
-5. Simple DevOps Project-3 | DevOps project with Git, Jenkins and Docker on AWS | CICD on containers
-https://lnkd.in/dtwQKwrG
-6. DevOps Tutorial : Simple DevOps Project
-https://lnkd.in/dvPFiAZQ
-7. Simple DevOps Project-1 | Simple DevOps project for CI/CD | CI/CD through Jenkins
-https://lnkd.in/dt7uBSA5
-8. Simple DevOps Project-2 | CI/CD pipeline using GIT, Jenkins & Ansible
-https://lnkd.in/d-uxbTeH
-9. Simple DevOps Projects - Part 2 | DevOps Projects for Beginners | DevOps Training | Edureka
-https://lnkd.in/d3fnFwrw
-10. Simple DevOps Projects - Part 3 | DevOps Projects for Beginners | DevOps Training | Edureka
-https://lnkd.in/dRfyHpvR
-11. Simple DevOps Project-4 - Part-01 | How To Create a Docker Image Using Jenkins And Ansible
-https://lnkd.in/d8YEmAxP
-12. DevOps Project 2021 - How to Learn DevOps Through a Practical Project
-https://lnkd.in/dT8c6R-s
-13. Simple DevOps Project - Troubleshooting steps
-https://lnkd.in/dYazXJQv
-14. Simple DevOps Project-4 - Part 03 | Enable versioning on docker images through jenkins job
-https://lnkd.in/dVQ7eyuW
-15. Complete DevOps Project | Github, Docker, Dockerhub, Git, Jenkins, Ansible
-https://lnkd.in/d3RFuhW2
-16. Simple DevOps Projects - Simple DevOps Projects #1 |DevOps Jenkins CI/CD project Apache Tomcat maven
-https://lnkd.in/dh6A85jC
-17. sample devops end to end project v1- devops project | ci/cd declarative pipeline using devops tools
-https://lnkd.in/dUVmADfx
-18. Complete END to END Azure DevOps Tutorials Series with Practical's Full Course in 4 Hours
-https://lnkd.in/dhXdJTGC
-19. DevOps Setup for Test, Build and Deploy a Java Project | DevOps Project to Build, Test and Deploy
-https://lnkd.in/dp6pvDFV
-20. DevOps Project Part-2 | Setting up CI-CD Pipeline for an E-Commerce App | DevOps Training | Edureka
-https://lnkd.in/dK4iqx-a
-21. AWS Projects for beginners | Deploying End to End Website on AWS
-https://lnkd.in/dAGFN_RH
-22. AWS CodePipeline tutorial | Build a CI/CD Pipeline on AWS
-https://lnkd.in/dg8JSet5
-23. DevOps Project | Creating CI CD Pipeline Using Jenkins | Intellipaat
-https://lnkd.in/dFaEagvK
-
-Google Style Sheets
-
-https://google.github.io/styleguide/shellguide.html
-https://tldp.org/LDP/abs/html/
-
-https://github.com/dennyzhang/cheatsheet-kubernetes-A4
+**Last Updated:** 2024
